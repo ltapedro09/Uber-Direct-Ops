@@ -1,2 +1,2 @@
-# Uber-Direct-Ops
-Uber Direct Operations Analysis 
+# Uber-Direct-Ops-Strategy
+Uber Direct Operations
